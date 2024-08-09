@@ -1,4 +1,4 @@
-package com.ultrathor4.training.Resource;
+package com.ultrathor4.training.Resources;
 
 import java.net.URI;
 import java.util.List;
